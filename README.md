@@ -62,9 +62,8 @@ Currently wrapping up my degree at UDLAP while actively looking for an internshi
 | Project | Stack | Description |
 |---|---|---|
 | [SACU](https://github.com/KD08GG/sacu) | Kotlin · Firebase · Mercado Pago | University cafeteria ordering & payment app |
-| [Academic Attendance App](https://github.com/KD08GG/control-academico) | Kotlin · Firebase · QR | Multi-role academic management with QR attendance |
+| [Academic Attendance](https://github.com/KD08GG/control-academico) | Kotlin · Firebase · QR | Multi-role academic management with QR attendance |
 | [PetMap](https://github.com/KD08GG/petmap) | Django · PostGIS · Python | Geospatial lost & found pet platform |
-| [Business Assistant Chatbot](https://github.com/KD08GG/chatbot) | Node.js · React · LLM | Conversational assistant for business workflows |
 | [License Plate Recognition](https://github.com/KD08GG/alpr) | Python · OpenCV | Automated license plate detection system |
 
 ---
