@@ -2,7 +2,7 @@
 
 **Computer Systems Engineering Student @ UDLAP · Graduating 2026**
 
-Full Stack · Android · UX/UI · Open to internships 🇲🇽
+Full Stack · UX/UI · Open to internships 🇲🇽
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerendgg/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kerengg8@gmail.com)
