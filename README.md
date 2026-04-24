@@ -54,6 +54,7 @@ Currently wrapping up my degree at UDLAP while actively looking for an internshi
 **Design & UX/UI**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
 ---
 
